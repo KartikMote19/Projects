@@ -40,7 +40,7 @@ def start_listening():
         elif 12 <= hour <= 18:
             speak("Good Afternoon Sir")
         else:
-            speak("Good Night Sir")
+            speak("Good Evening Sir")
 
         speak("How may I help you?")
 
